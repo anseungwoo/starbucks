@@ -178,7 +178,7 @@ header .sub-menu .search input:focus {
   width: 190px;
   border-color: #669900;
 }
-header .sub-menu .search .material-icons {
+header .sub-menu .search .material-symbols-outlined {
   height: 24px;
   position: absolute;
   top: 0;
@@ -187,7 +187,7 @@ header .sub-menu .search .material-icons {
   margin: auto;
   transition: .4s;
 }
-header .sub-menu .search.focused .material-icons {
+header .sub-menu .search.focused .material-symbols-outlined {
   opacity: 0;
 }
 header .main-menu {
