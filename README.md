@@ -1,15 +1,15 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/flamboyant-lumiere-482a1e/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/aesthetic-swan-e0ff98/overview)
 
 # ☕ STARBUCKS
 
 스타벅스 랜딩 페이지(홈페이지)를 만드는 예제입니다. <br>
 꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
 
-[main(master) 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app) <br/>
-[signin 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app/tree/feature/signin)
+[main(master) 브랜치로 이동](https://github.com/anseungwoo/starbucks/tree/master) <br/>
+[signin 브랜치로 이동](https://github.com/anseungwoo/starbucks/tree/signin)
 
 [DEMO](https://aesthetic-swan-e0ff98.netlify.app/) <br/>
-[DEMO+signin](https://priceless-bhabha-83fc0d.netlify.app/)
+[DEMO+signin](https://aesthetic-swan-e0ff98.netlify.app/)
 
 ![Starbucks](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/main_screenshot.jpg)
 
